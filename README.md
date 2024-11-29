@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Nicole Galdós
-- 🌱 I’m currently learning contabilidad
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently studyng contabilidad
+- ⚡ Fun fact:
 
 <!---
 NicoleG26/NicoleG26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
